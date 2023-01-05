@@ -1,92 +1,1862 @@
 [
     {
-        "link": "https://100nout.by/product/noutbuk-dell-latitude-12-7280-50/",
-        "title": "Б/у \n        Ноутбук Dell Latitude 12 7280",
+        "link": "https://100nout.by/product/noutbuk-lenovo-ideapad-320-15ikb-9/",
+        "title": "Б/у         Ноутбук Lenovo IdeaPad 320-15IKB",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "15,6\""
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i7-7500U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "NVIDIA GeForce 940MX 2 ГБ"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
         "sale_price": "1100 BYN",
-        "price_value": "990 BYN"
+        "price_value": "990 BYN",
+        "count": 1
     },
     {
-        "link": "https://100nout.by/product/noutbuk-dell-latitude-14-e7470-19/",
-        "title": "Б/у \n        Ноутбук Dell Latitude 14 E7470",
-        "sale_price": "890 BYN",
-        "price_value": "790 BYN"
+        "link": "https://100nout.by/product/noutbuk-lenovo-g505-11/",
+        "title": "Б/у         Ноутбук Lenovo G505",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "15,6\""
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "AMD E1-2100"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "4"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "120"
+            }
+        ],
+        "sale_price": "350 BYN",
+        "price_value": "290 BYN",
+        "count": 2
     },
     {
-        "link": "https://100nout.by/product/noutbuk-dell-latitude-15-e5570-7/",
-        "title": "Б/у \n        Ноутбук Dell Latitude 15 E5570",
-        "sale_price": "1100 BYN",
-        "price_value": "990 BYN"
+        "link": "https://100nout.by/product/noutbuk-lenovo-ideapad-100-14iby/",
+        "title": "Б/у         Ноутбук Lenovo IdeaPad 100-14IBY",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Celeron N2840"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "4"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "250"
+            }
+        ],
+        "sale_price": "400 BYN",
+        "price_value": "350 BYN",
+        "count": 3
     },
     {
-        "link": "https://100nout.by/product/noutbuk-dell-latitude-14-e7470-18/",
-        "title": "Б/у \n        Ноутбук Dell Latitude 14 E7470",
-        "sale_price": "890 BYN",
-        "price_value": "790 BYN"
+        "link": "https://100nout.by/product/noutbuk-lenovo-80xm/",
+        "title": "Б/у         Ноутбук Lenovo IdeaPad 320-17IKB",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "17,3''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Pentium 4415U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD+ 1600х900"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "4"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "500"
+            }
+        ],
+        "sale_price": "790 BYN",
+        "price_value": "690 BYN",
+        "count": 4
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t480-3/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T480",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-8350U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "1350 BYN",
+        "price_value": "1190 BYN",
+        "count": 5
     },
     {
         "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-159/",
-        "title": "Б/у \n        Ноутбук Lenovo ThinkPad T470",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i7-6600U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
         "sale_price": "1350 BYN",
-        "price_value": "1190 BYN"
+        "price_value": "1190 BYN",
+        "count": 6
     },
     {
         "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-158/",
-        "title": "Б/у \n        Ноутбук Lenovo ThinkPad T470",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i7-6600U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
         "sale_price": "1200 BYN",
-        "price_value": "1090 BYN"
+        "price_value": "1090 BYN",
+        "count": 7
     },
     {
         "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-157/",
-        "title": "Б/у \n        Ноутбук Lenovo ThinkPad T470",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
         "sale_price": "1100 BYN",
-        "price_value": "990 BYN"
+        "price_value": "990 BYN",
+        "count": 8
     },
     {
         "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-156/",
-        "title": "Б/у \n        Ноутбук Lenovo ThinkPad T470",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i7-6600U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
         "sale_price": "1200 BYN",
-        "price_value": "1090 BYN"
+        "price_value": "1090 BYN",
+        "count": 9
     },
     {
         "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-155/",
-        "title": "Б/у \n        Ноутбук Lenovo ThinkPad T470",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i7-6600U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
         "sale_price": "1200 BYN",
-        "price_value": "1090 BYN"
+        "price_value": "1090 BYN",
+        "count": 10
     },
     {
         "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-154/",
-        "title": "Б/у \n        Ноутбук Lenovo ThinkPad T470",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i7-6600U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
         "sale_price": "1200 BYN",
-        "price_value": "1090 BYN"
+        "price_value": "1090 BYN",
+        "count": 11
     },
     {
         "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-153/",
-        "title": "Б/у \n        Ноутбук Lenovo ThinkPad T470",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
         "sale_price": "1100 BYN",
-        "price_value": "990 BYN"
+        "price_value": "990 BYN",
+        "count": 12
     },
     {
         "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-152/",
-        "title": "Б/у \n        Ноутбук Lenovo ThinkPad T470",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-7300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
         "sale_price": "1100 BYN",
-        "price_value": "990 BYN"
+        "price_value": "990 BYN",
+        "count": 13
     },
     {
         "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-151/",
-        "title": "Б/у \n        Ноутбук Lenovo ThinkPad T470",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
         "sale_price": "1100 BYN",
-        "price_value": "990 BYN"
+        "price_value": "990 BYN",
+        "count": 14
     },
     {
-        "link": "https://100nout.by/product/noutbuk-dell-latitude-14-7480-22/",
-        "title": "Б/у \n        Ноутбук Dell Latitude 14 7480",
-        "sale_price": "1100 BYN",
-        "price_value": "990 BYN"
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-x260-2/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X260",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "180"
+            }
+        ],
+        "sale_price": "770 BYN",
+        "price_value": "690 BYN",
+        "count": 15
     },
     {
-        "link": "https://100nout.by/product/noutbuk-dell-latitude-14-7480-21/",
-        "title": "Б/у \n        Ноутбук Dell Latitude 14 7480",
+        "total": 15
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-g500-12/",
+        "title": "Б/у         Ноутбук Lenovo G500",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "15,6\""
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i3-3110M"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "4"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "500"
+            }
+        ],
+        "sale_price": "450 BYN",
+        "price_value": "390 BYN",
+        "count": 16
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-ideapad-320-15isk-6/",
+        "title": "Б/у         Ноутбук Lenovo IdeaPad 320-15ISK",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "15,6\""
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i3-6006U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "NVIDIA GeForce 920MX 2ГБ"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "160"
+            }
+        ],
+        "sale_price": "780 BYN",
+        "price_value": "690 BYN",
+        "count": 17
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t450-52/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T450",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-5300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD+ 1600х900"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "250"
+            }
+        ],
+        "sale_price": "660 BYN",
+        "price_value": "590 BYN",
+        "count": 18
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-x270-18/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X270",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "780 BYN",
+        "price_value": "690 BYN",
+        "count": 19
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-x270-17/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X270",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "680 BYN",
+        "price_value": "590 BYN",
+        "count": 20
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-x270-16/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X270",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "780 BYN",
+        "price_value": "690 BYN",
+        "count": 21
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t460-119/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T460",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "120"
+            }
+        ],
+        "sale_price": "770 BYN",
+        "price_value": "690 BYN",
+        "count": 22
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t460-116/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T460",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "880 BYN",
+        "price_value": "790 BYN",
+        "count": 23
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t460-115/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T460",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "990 BYN",
+        "price_value": "890 BYN",
+        "count": 24
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t460-110/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T460",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "240"
+            }
+        ],
+        "sale_price": "990 BYN",
+        "price_value": "890 BYN",
+        "count": 25
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-x260/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X260",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "160ГБ"
+            }
+        ],
+        "sale_price": "770 BYN",
+        "price_value": "690 BYN",
+        "count": 26
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t450-50/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T450",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5 4300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD+ 1600х900"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "660 BYN",
+        "price_value": "590 BYN",
+        "count": 27
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t460-ips-8-256/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T460 (IPS/8/256GB)",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "880 BYN",
+        "price_value": "790 BYN",
+        "count": 28
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t460-ips-8-256-key/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T460 (IPS/8/256/key)",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "900 BYN",
+        "price_value": "790 BYN",
+        "count": 29
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t460-103/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T460",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "1920х1200"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "990 BYN",
+        "price_value": "890 BYN",
+        "count": 30
+    },
+    {
+        "total": 30
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-144/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
         "sale_price": "1100 BYN",
-        "price_value": "990 BYN"
+        "price_value": "990 BYN",
+        "count": 31
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-139/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6200U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "1100 BYN",
+        "price_value": "990 BYN",
+        "count": 32
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-136/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "990 BYN",
+        "price_value": "890 BYN",
+        "count": 33
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-137/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "990 BYN",
+        "price_value": "890 BYN",
+        "count": 34
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-55/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "990 BYN",
+        "price_value": "890 BYN",
+        "count": 35
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-44/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "1100 BYN",
+        "price_value": "990 BYN",
+        "count": 36
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t470-37/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "990 BYN",
+        "price_value": "890 BYN",
+        "count": 37
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-l460/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad L460",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "770 BYN",
+        "price_value": "690 BYN",
+        "count": 38
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-l460-2/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad L460",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "770 BYN",
+        "price_value": "690 BYN",
+        "count": 39
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t560/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T560",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "15,6\""
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i7-6600U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "1320 BYN",
+        "price_value": "1190 BYN",
+        "count": 40
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t570-3/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T570",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "15,6\""
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i7-6600U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "FHD 1920x1080"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "NVIDIA GeForce 940MX 2 ГБ"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "1550 BYN",
+        "price_value": "1390 BYN",
+        "count": 41
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-x250-2/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X250",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-5300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "660 BYN",
+        "price_value": "590 BYN",
+        "count": 42
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-34/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X260",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "240"
+            }
+        ],
+        "sale_price": "830 BYN",
+        "price_value": "750 BYN",
+        "count": 43
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-17/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad L470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
+        "sale_price": "830 BYN",
+        "price_value": "750 BYN",
+        "count": 44
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-13/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad L470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
+        "sale_price": "830 BYN",
+        "price_value": "750 BYN",
+        "count": 45
+    },
+    {
+        "total": 45
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-10/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X270",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "790 BYN",
+        "price_value": "690 BYN",
+        "count": 46
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-7/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad L470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
+        "sale_price": "830 BYN",
+        "price_value": "750 BYN",
+        "count": 47
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-2-2/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad L470",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
+        "sale_price": "830 BYN",
+        "price_value": "750 BYN",
+        "count": 48
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-x270-8/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X270",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "790 BYN",
+        "price_value": "690 BYN",
+        "count": 49
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-x270-5-3/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X270",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "256"
+            }
+        ],
+        "sale_price": "790 BYN",
+        "price_value": "690 BYN",
+        "count": 50
+    },
+    {
+        "link": "https://100nout.by/product/lenovo-thinkpad-x260-2/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad X260",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "12,5''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-6300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
+        "sale_price": "770 BYN",
+        "price_value": "690 BYN",
+        "count": 51
+    },
+    {
+        "link": "https://100nout.by/product/lenovo-thinkpad-t450-41/",
+        "title": "Б/у         Ноутбук Lenovo ThinkPad T450",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "14,0''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i5-5300U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD+ 1600х900"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "8"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "320"
+            }
+        ],
+        "sale_price": "660 BYN",
+        "price_value": "590 BYN",
+        "count": 52
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-b570e/",
+        "title": "Б/у         Ноутбук Lenovo B570e",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "15,6\""
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Celeron B830"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "4"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
+        "sale_price": "360 BYN",
+        "price_value": "310 BYN",
+        "count": 53
+    },
+    {
+        "link": "https://100nout.by/product/lenovo-ideapad-yoga-11s-2/",
+        "title": "Б/у         Ноутбук Lenovo IdeaPad Yoga 11S",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "11,6''"
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i3-4020Y"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "встроенный"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "4"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "128"
+            }
+        ],
+        "sale_price": "660 BYN",
+        "price_value": "590 BYN",
+        "count": 54
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-thinkpad-t510i-2/",
+        "title": "Б/у         Ноутбук Lenovo Thinkpad T510i",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "15,6\""
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i3-370M"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "Nvidia NVS 3100M 1 Гб"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "4"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "180"
+            }
+        ],
+        "sale_price": "440 BYN",
+        "price_value": "390 BYN",
+        "count": 55
+    },
+    {
+        "link": "https://100nout.by/product/noutbuk-lenovo-z50-70-8-2/",
+        "title": "Б/у         Ноутбук Lenovo Z50-70",
+        "params": [
+            {
+                "name": "Диагональ экрана:",
+                "value": "15,6\""
+            },
+            {
+                "name": "Модель процессора:",
+                "value": "Intel Core i3-4030U"
+            },
+            {
+                "name": "Разрешение экрана:",
+                "value": "HD 1366х768"
+            },
+            {
+                "name": "Графический адаптер:",
+                "value": "NVIDIA GeForce 820M 2Гб"
+            },
+            {
+                "name": "Оперативная память, ГБ:",
+                "value": "4"
+            },
+            {
+                "name": "Емкость накопителя, ГБ:",
+                "value": "500"
+            }
+        ],
+        "sale_price": "550 BYN",
+        "price_value": "490 BYN",
+        "count": 56
+    },
+    {
+        "total": 56
     }
 ]
